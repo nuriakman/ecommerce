@@ -7,18 +7,18 @@
 - Ürün teknik çizimleri (ölçülendirme için) temin edilmesi
 - Ürün fotoğrafları temin edilmesi
 - Gerekli fotoğrafların dekupe (çevresel izolasyon) edilmesi
-- İçeriğin Sosyal medya için optimizasyonu
+- İçeriğin Sosyal medyada **Paylaş** düğmesi için optimizasyonu
 - İçeriğin Arama motoru için optimizasyonu
 - Benzersiz içerik ouşturma (Kopyala yapıştırdan uzak durulacak)
-- Blog yazısıları hazırlama (SEO için)
+- Blog yazıları hazırlama (SEO için)
 - Video hazırlama (Video çok şey anlatır!)
 - Hizmet Satışı
 - Proje Danışmanlığı / Teklif Verme
 
+
 # Hazır eTicaret Sitesi Maliyeti
 - İlk maliyet 500$ (Özel site şablonu tasarlama)
 - Yıllık kira 650$
-
 
 
 # Özel eTicaret Sitesi Maliyetleri
@@ -29,7 +29,7 @@
 - Sanal Sunucu kiralanması. Aylık 20$ - 40$
 - Yedekleme Hizmeti. Aylık 20$
 - Güvenlik ve performans için CDN, WAF, DDoS Hizmeti. Aylık 20$ - 50$
-- Arama motorlarında reklam verme. Aylık 20$ (minimum)
+- Arama motorlarında reklam verme. Aylık 20$ - 50$ (minimum)
 
 
 # Genel Yapılacaklar
