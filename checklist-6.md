@@ -136,7 +136,7 @@ This is the bread and butter of your ecommerce site, so use the shopping cart an
 - If you sell high priced items, offer financing options like payment installments
 - Test the checkout process to see if it works
 
-Step 6: Following Up With Customers
+## Step 6: Following Up With Customers
 
 Once someone buys from you there is a chance to offer support and additional deals with emails after their purchase. Here’s what to include in your emails.
 
