@@ -28,3 +28,4 @@ Remember to ask yourself or the ecommerce website developers you collaborate wit
 
 Afterwards, you offer to join a loyalty program and chances are high that the offer is going to be accepted. Later you can include into your email a request to write a review or share a link on social media in exchange for discounts or specials, an offer to buy gift cards or to receive notification alerts for specials or new products. 
 
+[Kaynak](https://www.playbuzz.com/juliap54/the-checklist-for-a-new-e-commerce-website)
